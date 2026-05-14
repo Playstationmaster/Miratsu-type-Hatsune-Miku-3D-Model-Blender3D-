@@ -32,6 +32,7 @@ The model was tested on EEVEE engine (Blender3D vanilla version).
 This package includes 2 different .BLEND files:
 * Miku_Miratsu_ModelComplete: Normal Toon BSDF is applied. Only with a basic rig. Cannot blink eyes.
 * Miku_Miratsu_ModelComplete_ToonShader: Some additional shader settings were applied to the model. Applicable for advanced animations.
+
 Both .BLEND project files share the same texture images.
 
 The current rig setup of this model is as follows:
