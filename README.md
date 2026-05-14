@@ -1,16 +1,23 @@
 # Miratsu-type Hatsune Miku 3D Model by Producer.P
+
 Time of creation: May 2026
+
 Inspected by RUBB3R_3D
+
 Version 1.0
 
 
 Credits:
+
 © Crypton Future Media Inc. | Character Copyright Holder
+
 © Miratsu/Mitdada | Original Illustrator
+
 © Producer.P | 3D Modeller
 
 
 User Agreement:
+
 This model is for non-commercial use only.
 Do not use this 3D model to make the contents that infringe or may infringe our copyrights or those of a third party, violate privacy, are against public order and morals, or can be malicious.
 The modification of this model is permitted for human education purposes only, and the modified versions made by any other third-party must not be distributed.
