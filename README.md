@@ -7,7 +7,7 @@ Inspected by RUBB3R_3D
 Version 1.0
 
 
-Credits:
+## Credits:
 
 © Crypton Future Media Inc. | Character Copyright Holder
 
@@ -17,7 +17,7 @@ Credits:
 
 
 
-User Agreement:
+## User Agreement:
 
 This model is for non-commercial use only.
 Do not use this 3D model to make the contents that infringe or may infringe our copyrights or those of a third party, violate privacy, are against public order and morals, or can be malicious.
@@ -26,7 +26,8 @@ This model is provided "as-is", and any user support or warranties are not inclu
 Do not use this 3D model for AI training.
 
 
-Description:
+## Description:
+
 The model was tested on EEVEE engine (Blender3D vanilla version).
 This package includes 2 different .BLEND files:
 * Miku_Miratsu_ModelComplete: Normal Toon BSDF is applied. Only with a basic rig. Cannot blink eyes.
